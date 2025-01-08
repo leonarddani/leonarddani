@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Albania
-* 🚀  I'm currently working on [Car-dealersip](http://RUTOO.US)
+* 🚀  I'm currently working on [Car-dealersip]()
 * 🧠  I'm learning 
 
 ### Skills
