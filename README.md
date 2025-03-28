@@ -5,8 +5,8 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Albania
-* 🚀  I'm currently working on [React]()
-* 🧠  I'm learning 
+* 🚀  I'm currently working on []()
+* 🧠  I'm learning React
 
 ### Skills
 
